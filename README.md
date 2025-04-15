@@ -9,7 +9,7 @@ Passionné de cybersécurité offensive, je partage ici mes exploits, outils per
 - Write-ups TryHackMe / HTB
 - Scripts Python CVE / Reverse Shell
 - Cheat Sheets OSCP & Red Team
-# Créons un fichier README.md stylé en anglais pour un profil GitHub Red Team / OSCP / HackHeart
+
 
 # 👋 Welcome to HackHeart's Arsenal
 
