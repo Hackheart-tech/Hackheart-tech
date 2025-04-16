@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hackheart.fr/assets/Votre texte de paragraphe.png" alt="HackHeart Banner" width="80%">
+  <img src="https://hackheart.fr/Votre texte de paragraphe.png" alt="HackHeart Banner" width="80%">
 </p>
 
 
