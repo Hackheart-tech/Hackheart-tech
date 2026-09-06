@@ -36,9 +36,9 @@ J'accompagne les entreprises sur l'ensemble de la surface d'attaque : tests d'in
 
 ## Outillage & projets
 
-- **Umbra** — pentester autonome assisté par IA (architecture multi-agents, garde-fous d'exécution, reporting ISO / MITRE / CVSS)
-- **PenReport-Auto** — pont Obsidian vers l'outil de reporting pour industrialiser la rédaction
-- **WifiPwn** — automatisation d'audit WiFi
+- **Umbra**  pentester autonome assisté par IA (architecture multi-agents, garde-fous d'exécution, reporting ISO / MITRE / CVSS)
+- **PenReport-Auto** pont Obsidian vers l'outil de reporting pour industrialiser la rédaction
+- **WifiPwn** automatisation d'audit WiFi
 - Scripts et exploits maison, cheat sheets et notes de mission
 
 > Une partie de ces travaux reste privée (contexte client). Les dépôts publics sont des démonstrateurs et outils réutilisables.
